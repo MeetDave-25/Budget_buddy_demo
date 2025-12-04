@@ -166,10 +166,7 @@ For detailed contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## 🙏 Credits
 
-- **Design:** Original Figma design by [Figma Community](https://www.figma.com/design/rPDpRtBevUP9PkzT8ggAeO/Student-Budget-Tracker-App)
 - **Developer:** Made By Meet G. Dave
-- **UI Components:** [Radix UI](https://www.radix-ui.com/)
-- **Icons:** [Lucide Icons](https://lucide.dev/)
 
 ## 📞 Contact
 

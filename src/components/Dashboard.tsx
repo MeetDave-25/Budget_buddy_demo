@@ -29,7 +29,7 @@ export function Dashboard({ userData, onAddExpense }: DashboardProps) {
         >
           <div className="flex justify-between items-start mb-6">
             <div>
-              <h1 className="text-2xl mb-1">Hey Student! 👋</h1>
+              <h1 className="text-2xl mb-1">Hey, Buddy! 👋</h1>
               <p className="text-muted-foreground text-sm">Here's your budget overview</p>
             </div>
             <div className="flex gap-2">
@@ -215,6 +215,13 @@ export function Dashboard({ userData, onAddExpense }: DashboardProps) {
         >
           <Plus className="w-6 h-6" />
         </motion.button>
+
+        {/* Credit Line */}
+        <div className="fixed bottom-16 left-0 right-0 pb-2">
+          <p className="text-center text-xs text-muted-foreground">
+            Made by <span className="font-semibold text-blue-600">Meet G. Dave</span>
+          </p>
+        </div>
       </div>
     </div>
   );

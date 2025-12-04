@@ -187,7 +187,7 @@ export function SettingsScreen({ userData, onUpdateBudget, onUpdateIncome, onLog
               <Trophy className="w-5 h-5 text-yellow-600" />
               Your Achievements
             </h3>
-            
+
             {/* Saving Streak */}
             <div className="mb-6 p-4 rounded-lg bg-white">
               <div className="flex items-center justify-between mb-3">
@@ -317,7 +317,7 @@ export function SettingsScreen({ userData, onUpdateBudget, onUpdateIncome, onLog
           transition={{ delay: 0.8 }}
           className="text-center py-4"
         >
-          <p className="text-xs text-muted-foreground">Made By Mool G. Dave</p>
+          <p className="text-xs text-muted-foreground">Made By Meet G. Dave</p>
         </motion.div>
       </div>
     </div>
